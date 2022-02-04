@@ -5,6 +5,7 @@ const Technologies = () => {
     <section id="tech">
         <div className="section-divider">
             <h2 className='section-title'>Technologies</h2>
+            <h5>I have worked with a range of technologies in the web development eco-sphere, from the front-end to the back-end, in addition to having knowledge of working with Python.</h5>
             <div className='tech-container'>
                 <div className="tech-card">
                     <h3>Front-End</h3>
